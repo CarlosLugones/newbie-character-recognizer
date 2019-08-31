@@ -3,7 +3,7 @@
 This was my first patterns recognition project using neural networks, its goal was to recognice a B or D letters in a user input.
 The algorithm used is multilayer perceptron with backpropagation.
 
-I used an input layer of 1024 neurons (the equivalent to 32x32 input pixedes, corresponding to the user drawing input).
+I used an input layer of 1024 neurons (the equivalent to 32x32 input pixels, corresponding to the user drawing input).
 In the intermediate layer were used 28 neurons. Output layer consists of two neurons, the y1 and y2 corresponding to
 letter "B" and "D" respectively.
 
