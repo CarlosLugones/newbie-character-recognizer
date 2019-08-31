@@ -1,0 +1,7 @@
+# archivos creados por netbeans
+nbproject
+build.xml
+manifest.mf
+/build/
+/dist/
+nbbuild.xml
